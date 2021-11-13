@@ -7,12 +7,10 @@ For some reasons i can not create requirements.txt files so just do these follow
 Step 1
 ```
 pip install pipreqs
-
  ```
 Step 2
 ```
 pipreqs /path/to/project
-
   ```
 # Modification
 You can make your own command by adding 
@@ -24,5 +22,4 @@ elif 'your command' in query:
 I have a added PyAudio-0.2.11-cp37-cp37m-win_amd64.whl so just install it
 ```
 pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
-
 ```
